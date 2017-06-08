@@ -1,0 +1,6 @@
+framework module Pods_CPNetWork_Example {
+  umbrella header "Pods-CPNetWork_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

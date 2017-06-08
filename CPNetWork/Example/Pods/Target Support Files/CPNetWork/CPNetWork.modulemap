@@ -1,0 +1,6 @@
+framework module CPNetWork {
+  umbrella header "CPNetWork-umbrella.h"
+
+  export *
+  module * { export * }
+}
